@@ -46,10 +46,19 @@ h1 {
     text-decoration: none;
     color: #ffffff;
 }
+/* 
+.twitter:has(a:active){
+    background-color: red;
 
-.twitter a:active {
+} */
+
+/* /* .twitter a:active {
     background-color: #0b7bc1;
-}
+} */
+
+.twitter:active {
+    background-color: #0b7bc1;
+} 
 
 
 .facebook {
@@ -71,7 +80,7 @@ h1 {
     color: #ffffff;
 }
 
-.facebook a:active {
+.facebook:active {
     background-color: #2b406e;
 }
 
