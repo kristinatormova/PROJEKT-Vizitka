@@ -41,11 +41,14 @@ h1 {
 }
 
 .twitter a:hover,
-.twitter a:active,
 .twitter a:link,
 .twitter a:visited { 
     text-decoration: none;
     color: #ffffff;
+}
+
+.twitter a:active {
+    background-color: #0b7bc1;
 }
 
 
@@ -62,11 +65,14 @@ h1 {
 }
 
 .facebook a:hover,
-.facebook a:active,
 .facebook a:link,
 .facebook a:visited { 
     text-decoration: none;
     color: #ffffff;
+}
+
+.facebook a:active {
+    background-color: #2b406e;
 }
 
 .fotoEliska {
