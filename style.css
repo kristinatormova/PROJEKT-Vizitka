@@ -36,6 +36,8 @@ h1 {
     text-align: center;
     padding: 10px;
     border-radius: 5px;
+    font-weight: bold;
+    margin-top: 30px;
 }
 
 .twitter a:hover,
@@ -56,6 +58,7 @@ h1 {
     text-decoration: none;
     padding: 10px;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .facebook a:hover,
@@ -81,13 +84,13 @@ h1 {
 .oEliske {
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
-    margin-top: 30px;
+    text-align: justify;
 }
 
 .box {
     background-color: #ffffff;
     padding: 30px;
-    margin: 150px;
+    margin-top: 150px;
     width: 550px;
     margin-left: auto;
     margin-right: auto;
